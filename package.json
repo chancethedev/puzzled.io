@@ -1,0 +1,15 @@
+{
+  "name": "puzzled.io",
+  "version": "1.0.0",
+  "description": "Puzzles!",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "puzzle",
+    "crosswords"
+  ],
+  "author": "chancethedev",
+  "license": "ISC"
+}
