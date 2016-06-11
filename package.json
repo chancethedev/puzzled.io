@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Puzzles!",
   "main": "build/index.js",
+  "repository": "git@github.com:chancethedev/puzzled.io",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
